@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Desk1ºEntrega\Proj Gab\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2250003650.index
+840353142.index
+1779353994.index
+4105884897.index
+0.index
+1330181930.index
+1384468434.index
